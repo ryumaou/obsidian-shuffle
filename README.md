@@ -37,6 +37,7 @@ Try out new prompts by loading their pack into your settings. (Will replace your
 ### Currently available packs:
 - ⚫ `Oblique Strategies` by Brian Eno and Peter Schmidt
 - ⚡️ `Flash Fiction Pack` by Eleanor Konik
+- 📓 'Story Starter'
 
 ### Share YOUR custom prompts!
 
